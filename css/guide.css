@@ -1,0 +1,15 @@
+body {
+            padding-top: 60px;
+            padding-bottom: 40px;
+        }
+#map {
+    height: 350px;
+    background-color: #eee;
+}
+.olControlAttribution {
+    bottom: 3px;
+    left: 10px;
+    line-height: 9px;
+    font-size: 9px;
+    color: #ccc;
+}
